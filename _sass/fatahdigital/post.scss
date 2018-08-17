@@ -28,10 +28,15 @@ a:hover, a {
 .post_page {
   p {
     font-weight: 400;
-    color: rgba(0,0,0,.54);
+    color: #000;
     font-size: 21px;
   }
+  h1 {
+    font-weight: 600;
+    color: rgba(0,0,0,0.78);
+  }
   a {
+    color: inherit;
     text-decoration: none;
     font-weight: 400;
     font-size: 21px;
@@ -39,6 +44,19 @@ a:hover, a {
     background-repeat: repeat-x;
     background-size: 2px .1em;
     background-position: 0 1.07em;
+  }
+}
+.singup_link {
+  color: inherit;
+  text-decoration: none;
+  font-weight: 400;
+  font-size: 14px;
+  background-image: linear-gradient(to bottom,rgba(0,0,0,.68) 50%,rgba(0,0,0,0) 50%);
+  background-repeat: repeat-x;
+  background-size: 2px .1em;
+  background-position: 0 1.07em;
+  &:hover {
+    color: inherit;
   }
 }
 .profile_img {
@@ -53,6 +71,8 @@ a:hover, a {
 }
 .img {
   display: block;
+  width: 100%;
+  max-width: 100%;
 }
 h4 {
   font-weight: 600;
