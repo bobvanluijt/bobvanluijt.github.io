@@ -11,10 +11,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "bob.wtf"
 title_separator          : "|"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Bob van Lujit"
+description              : ""
 url                      : # the base hostname & protocol for your site e.g. "https://fatah.co"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g.
@@ -67,10 +67,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Bob van Luijt"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "I’m a creative technologist. I like art, tech and design."
+  location         :
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
