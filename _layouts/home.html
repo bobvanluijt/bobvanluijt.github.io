@@ -1,3 +1,48 @@
 ---
 layout: default
 ---
+
+    <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
+      <h1 class="display-4">Bob’s WTF blog</h1>
+      <p class="lead">I like to explore the developments in technology, art and design.</p>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col">
+          <p>Previous Publications</p>
+          <hr class="mb-4">
+        </div>
+      </div>
+      <div class="card-deck mb-3 text-center row">
+        {% for post in site.posts %}
+        {% if forloop.index > 1  %}
+        <div class="col-sm-4 no-gutters no-padding card mb-4 box-shadow">
+          <div class="">
+            <a href="{{ post.permalink }}">
+              <img class="post_img" src="/assets/images/{{ post.img }}" alt="">
+            </a>
+          </div>
+          <div class="card-body">
+            <a href="{{ post.permalink }}">
+              <h1 class="post_title">{{ post.title }}</h1>
+              <h1 class="post_sub_title">{{ post.sub-title }}</h1>
+            </a>
+            <div class="row">
+              <div class="col-sm-3">
+                <div class="avtar">
+                  <img class="profile_img" src="/assets/Images/bob.jpeg" alt="">
+                </div>
+              </div>
+              <div class="col-sm-9">
+                <div class="profile_details">
+                  <a href="https://bob.wtf/@bobvanluijt">Bob van Luijt</a>
+                  <p>{{ post.date | date: "%b %-d, %Y" }}</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        {% endif %}
+        {% endfor %}
+      </div>
+    </div>
