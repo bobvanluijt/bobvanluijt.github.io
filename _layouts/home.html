@@ -6,16 +6,53 @@ layout: default
       <h1 class="display-4">Bob’s WTF blog</h1>
       <p class="lead">I like to explore the developments in technology, art and design.</p>
     </div>
+    <div class="container mb-5">
+      <div class="row">
+        <div class="col">
+          <p>Latest Publication</p>
+          <hr class="mb-4">
+        </div>
+      </div>
+      <div class="row">
+        {% assign first = site.posts.first %}
+        <div class="col-sm-8">
+          <a href="{{ first.permalink }}">
+            <img class="first_post_img" src="/assets/Images/{{ first.img }}" alt="">
+          </a>
+        </div>
+        <div class="col-sm-4">
+          <div class="card-body">
+            <a href="{{ first.permalink }}">
+              <h1 class="first_post_title post_title">{{ first.title }}</h1>
+              <h1 class="post_sub_title">{{ first.sub-title }}</h1>
+            </a>
+            <div class="row">
+              <div class="col-sm-3">
+                <div class="avtar">
+                  <img class="profile_img" src="/assets/Images/bob.jpeg" alt="">
+                </div>
+              </div>
+              <div class="col-sm-9">
+                <div class="profile_details">
+                  <a href="https://bob.wtf/@bobvanluijt">Bob van Luijt</a>
+                  <p>{{ first.date | date: "%b %-d" }}</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
     <div class="container">
       <div class="row">
         <div class="col">
-          <p>All Publications</p>
+          <p>Previous Publications</p>
           <hr class="mb-4">
         </div>
       </div>
       <div class="card-deck mb-3 text-center row">
         {% for post in site.posts %}
-        {% if forloop.index > 0  %}
+        {% if forloop.index > 1  %}
         <div class="col-sm-4 no-gutters no-padding card mb-4 box-shadow">
           <div class="">
             <a href="{{ post.permalink }}">
