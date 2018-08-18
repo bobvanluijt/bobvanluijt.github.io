@@ -31,3 +31,14 @@
   width: 100%;
   max-width: 100%;
 }
+.tag_page {
+  .link {
+    text-align: left !important; 
+  }
+  .link:hover{
+    text-decoration: none;
+  }
+  .post_title {
+    font-size: 36px;
+  }
+}

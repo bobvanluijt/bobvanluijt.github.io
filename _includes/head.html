@@ -39,6 +39,10 @@
 		  ga('send', 'pageview');
 		</script>
 	{%- endif -%}
+
+  {% if site.tags != "" %}
+    {% include collecttags.html %}
+  {% endif %}
 	<!-- All css file links -->
 
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Material+Icons">
