@@ -16,13 +16,13 @@ layout: default
       <div class="row">
         {% assign first = site.posts.first %}
         <div class="col-sm-8">
-          <a href="{{ first.permalink }}">
+          <a href="{{ first.url }}">
             <img class="first_post_img" src="/assets/Images/{{ first.img }}" alt="">
           </a>
         </div>
         <div class="col-sm-4">
           <div class="card-body">
-            <a href="{{ first.permalink }}">
+            <a href="{{ first.url }}">
               <h1 class="first_post_title post_title">{{ first.title }}</h1>
               <h1 class="post_sub_title">{{ first.sub-title }}</h1>
             </a>
@@ -55,12 +55,12 @@ layout: default
         {% if forloop.index > 1  %}
         <div class="col-sm-4 no-gutters no-padding card mb-4 box-shadow">
           <div class="">
-            <a href="{{ post.permalink }}">
+            <a href="{{ post.url }}">
               <img class="post_img" src="/assets/images/{{ post.img }}" alt="">
             </a>
           </div>
           <div class="card-body">
-            <a href="{{ post.permalink }}">
+            <a href="{{ post.url }}">
               <h1 class="post_title">{{ post.title }}</h1>
               <h1 class="post_sub_title">{{ post.sub-title }}</h1>
             </a>
