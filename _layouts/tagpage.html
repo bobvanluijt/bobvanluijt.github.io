@@ -1,0 +1,47 @@
+---
+layout: default
+---
+<section>
+  <div class="tag_page">
+    <div class="container">
+      <div class="row">
+        <div class="col">
+          <div class="post">
+            <p>TAGGED IN</p>
+            <h2>{{ page.tag }}</h2>
+          </div>
+          <hr>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class=" mb-3 text-center row">
+        {% for post in site.tags[page.tag] %}
+
+        <div class="col-sm-12 no-gutters no-padding card mb-4 box-shadow">
+          <div class="card-body">
+            <a href="{{ post.url }}">
+              <img class="post_img" src="/assets/images/{{ post.img }}" alt="">
+            </a>
+          </div>
+          <div class="card-body">
+            <a href="{{ post.url }}">
+              <h3 class="post_title">{{ post.title }}</h3>
+            </a>
+            <a href="{{ post.url }}" class="link">
+              <h4 class="post_sub_title">{{ post.sub-title }}</h4>
+            </a>
+            <div class="">
+              <div class="profile_details">
+                <p>Publish on : {{ post.date | date: "%b %-d, %Y" }}</p>
+                <a class="link" href="{{ post.url }}">Read More...</a>
+              </div>
+            </div>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</section>
