@@ -55,9 +55,12 @@ layout: default
         {% for post in site.posts %}
         {% if forloop.index > 1  %}
         <div class="col-sm-4 no-gutters no-padding card mb-4 box-shadow">
-          <div class="">
-            <a href="{{ post.url }}">
-              <img class="post_img" src="/assets/images/{{ post.img }}" alt="">
+          <div class="" style="background:{{ post.bg_color }};">
+            <a href="{{ post.url }}" class="post_link">
+              <!-- <img class="post_img" src="/assets/images/{{ post.img }}" alt=""> -->
+              <div class="post_head_img">
+                <h4>{{ post.title }}</h4>
+              </div>
             </a>
           </div>
           <div class="card-body">
