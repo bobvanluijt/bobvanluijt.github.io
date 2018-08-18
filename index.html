@@ -3,3 +3,8 @@ layout: home # Page Layout
 title: # Your Page Title
 description: # Your Page Discription
 ---
+
+{% for tag in site.tags[page.tag] %}
+<h1>{{ tag }}</h1>
+<h1>hello</h1>
+{% endfor %}
