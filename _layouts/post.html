@@ -2,8 +2,19 @@
 layout: default
 ---
 <div class="container">
+  <div class="row">
+    <div class="col mt-2">
+      {% assign words = page.content | number_of_words %}
+      {% if words < 360 %}
+        <p>{{ page.date | date: "%b %-d, %Y" }} . 1 min read</p>
+      {% else %}
+      <p>{{ page.date | date: "%b %-d, %Y" }} . {{ words | divided_by:180 }} min read
+      {% endif %}
+    </div>
+
+  </div>
   <div class="row no-gutters">
-    <div class="col no-gutters mt-5">
+    <div class="col no-gutters mt-2">
       <div class="post_img latest_img single_img" style="background:{{ page.bg_color }};">
         <!-- <a href="{{ first.url }}" class="post_link"> -->
           <!-- <img class="post_img" src="/assets/images/{{ post.img }}" alt=""> -->
