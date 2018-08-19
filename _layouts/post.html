@@ -4,8 +4,15 @@ layout: default
 <div class="container">
   <div class="row no-gutters">
     <div class="col no-gutters mt-5">
-      <img src="/assets/Images/{{ page.img }}" alt="" class="ml-auto mr-auto img">
-      <a class="" href="http://bit.ly/bobs-nwslttr">sign up for my newsletter</a>
+      <div class="post_img latest_img single_img" style="background:{{ page.bg_color }};">
+        <!-- <a href="{{ first.url }}" class="post_link"> -->
+          <!-- <img class="post_img" src="/assets/images/{{ post.img }}" alt=""> -->
+          <div class="post_head_img single_page_img">
+            <h1 class="latest_post_img_title post_img_title">{{ page.title }}<br><small>{{ page.img_sub_title }}</small></h1>
+          </div>
+        <!-- </a> -->
+      </div>
+      <a class="s_link" href="http://bit.ly/bobs-nwslttr">sign up for my newsletter</a>
     </div>
   </div>
 </div>

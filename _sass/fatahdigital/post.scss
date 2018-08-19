@@ -47,7 +47,7 @@
   height: 172px;
   width: 100%;
   position: relative;
-  h4 {
+  .post_img_title {
     color: #000;
     font-size: 20px;
     text-align: center;
@@ -55,7 +55,51 @@
     padding: 0 25px;
     top: 50%;
     transform: translateY(-50%);
+    small {
+      font-size: 9px;
+    }
   }
+}
+.latest_img {
+  height: 350px;
+  position: relative;
+  a {
+    color: #000;
+  }
+  .latest_head_img {
+    position: unset;
+  }
+  .single_page_img {
+    position: unset;
+    .latest_post_img_title {
+      font-size: 68px;
+      small {
+        font-size: 28px;
+      }
+    }
+  }
+  .latest_post_img_title {
+    font-size: 52px;
+    small {
+      font-size: 16px;
+    }
+  }
+}
+.single_img {
+  height: 450px;
+}
+.s_link {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  display: block;
+  text-align: center;
+  &:hover {
+    text-decoration: none;
+    color: inherit;
+  }
+}
+.post_img {
+  background: #474546;
 }
 .post_link:hover {
   text-decoration: none;

@@ -3,5 +3,7 @@ layout: post
 img : "13.jpeg"
 title : "From Digital to Physical Innovation"
 sub-title: "Why companies like Facebook and Google are building cities and neighbourhoods."
+img_title: "From Digital to Physical Innovation"
+img_sub_title: ""
 bg_color: red;
 ---

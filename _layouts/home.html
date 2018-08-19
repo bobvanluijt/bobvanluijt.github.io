@@ -17,15 +17,21 @@ layout: default
       <div class="row">
         {% assign first = site.posts.first %}
         <div class="col-sm-8">
-          <a href="{{ first.url }}">
-            <img class="first_post_img" src="/assets/Images/{{ first.img }}" alt="">
-          </a>
+          <div class="post_img latest_img" style="background:{{ first.bg_color }};">
+            <a href="{{ first.url }}" class="post_link">
+              <!-- <img class="post_img" src="/assets/images/{{ post.img }}" alt=""> -->
+              <div class="post_head_img latest_head_img">
+                <h1 class="latest_post_img_title post_img_title">{{ first.img_title }} <br>
+                <small>{{ first.img_sub_title }}</small> </h1>
+              </div>
+            </a>
+          </div>
         </div>
         <div class="col-sm-4">
           <div class="card-body">
             <a href="{{ first.url }}">
-              <h1 class="first_post_title post_title">{{ first.title }}</h1>
-              <h1 class="post_sub_title">{{ first.sub-title }}</h1>
+              <h1 class="first_post_title post_title">{{ first.img_title }}</h1>
+              <h2 class="post_sub_title">{{ first.sub-title }}</h2>
             </a>
             <div class="row">
               <div class="col-sm-3">
@@ -55,18 +61,21 @@ layout: default
         {% for post in site.posts %}
         {% if forloop.index > 1  %}
         <div class="col-sm-4 no-gutters no-padding card mb-4 box-shadow">
-          <div class="" style="background:{{ post.bg_color }};">
+          <div class="post_img" style="background:{{ post.bg_color }};">
             <a href="{{ post.url }}" class="post_link">
               <!-- <img class="post_img" src="/assets/images/{{ post.img }}" alt=""> -->
               <div class="post_head_img">
-                <h4>{{ post.title }}</h4>
+                <h4 class="post_img_title">{{ post.img_title }}
+                <br>  <small>{{ post.img_sub_title }}</small> </h4>
+                <!-- <h5 class="img_sub_title post_img_title">{{ post.img_sub_title }}</h5> -->
+
               </div>
             </a>
           </div>
           <div class="card-body">
             <a href="{{ post.url }}">
               <h1 class="post_title">{{ post.title }}</h1>
-              <h1 class="post_sub_title">{{ post.sub-title }}</h1>
+              <h2 class="post_sub_title">{{ post.sub-title }}</h2>
             </a>
             <div class="row">
               <div class="col-sm-3">
