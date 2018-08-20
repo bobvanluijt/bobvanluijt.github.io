@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<div class="container">
+  <div class="row">
+    <div class="col-12">
+      <a href="/archive/">&nbsp;&nbsp;All&nbsp;&nbsp;>&nbsp;</a>
+      <a href="/archives/{{ page.year }}/">&nbsp;{{ page.year }}&nbsp; </a>
+    </div>
+  </div>
+</div>
+{% for post in site.posts %}
+    {% capture post_year %}{{ post.date | date: '%Y' }}{% endcapture %}
+    {% if post_year == page.year %}
+    {% include archive-single.html %}
+    {% endif %}
+{% endfor %}
