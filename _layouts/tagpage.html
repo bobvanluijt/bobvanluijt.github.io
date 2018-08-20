@@ -14,12 +14,9 @@ layout: default
         </div>
       </div>
     </div>
-
-
     <div class="container">
       <div class=" mb-3 text-center row">
         {% for post in site.tags[page.tag] %}
-
         <div class="col-sm-12 no-gutters no-padding card mb-4 box-shadow">
           <div class="card-body">
             <a href="{{ post.url }}">
@@ -35,7 +32,12 @@ layout: default
             </a>
             <div class="">
               <div class="profile_details">
-                <p>Publish on : {{ post.date | date: "%b %-d, %Y" }}</p>
+                {% assign words = post.content | number_of_words %}
+                {% if words < 360 %}
+                  <p>{{ post.date | date: "%b %-d, %Y" }} . 1 min read</p>
+                {% else %}
+                <p>Publish on : {{ post.date | date: "%b %-d, %Y" }} . {{ words | divided_by:180 }} min read</p>
+                {% endif %}
                 <a class="link" href="{{ post.url }}">Read More...</a>
               </div>
             </div>
