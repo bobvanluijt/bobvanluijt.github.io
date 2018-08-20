@@ -35,12 +35,19 @@ Device — Connection — API — Cloud
 These propositions often consist of one or more of the four basic monetization options; devices, networks, APIs and/or cloud solutions.
 
 1.  **The Device or The Firmware**
+
     Obviously, the creation of smart devices is one of the core monetizable options in this chain. Thanks to cheap [microcomputers](https://www.raspberrypi.org/blog/raspberry-pi-zero/) [and](https://www.youtube.com/watch?v=bJY78VIaPCE) [microcontrollers](https://www.arduino.cc/en/Guide/Introduction) smaller non-enterprise companies are able to compete in the connected market.
-2.  **The API
-    **How will the smart lighting installation inform the smart heating what its state is? The many possible protocols (Weave, eHomeKit, ZigBee, SmartThings and all custom built solutions) have their own ‘language’. A blue sky scenario would, of course, be an omnipresent protocol that all devices understand. Even though an open source solution like Google’s Weave seems an answer to this, we see more traditional enterprises starting to introduce proprietary APIs. And this is exactly the sticking point. If your whole organization is connected through an outsourced, governed API infrastructure, it might save you the trouble of going through the hustle of adopting an open source alternative. But practically, it also ties you directly to the owner of the proprietary language. The implications of this should not be underestimated. The [smart grid](https://en.wikipedia.org/wiki/Smart_grid), for example, is smart because it shares information. The detection of people in a room informs the lighting installation to switch on, but it also informs the heating systems to start working. Sharing of information is what makes the grid smart.
+
+2.  **The API**
+
+    How will the smart lighting installation inform the smart heating what its state is? The many possible protocols (Weave, eHomeKit, ZigBee, SmartThings and all custom built solutions) have their own ‘language’. A blue sky scenario would, of course, be an omnipresent protocol that all devices understand. Even though an open source solution like Google’s Weave seems an answer to this, we see more traditional enterprises starting to introduce proprietary APIs. And this is exactly the sticking point. If your whole organization is connected through an outsourced, governed API infrastructure, it might save you the trouble of going through the hustle of adopting an open source alternative. But practically, it also ties you directly to the owner of the proprietary language. The implications of this should not be underestimated. The [smart grid](https://en.wikipedia.org/wiki/Smart_grid), for example, is smart because it shares information. The detection of people in a room informs the lighting installation to switch on, but it also informs the heating systems to start working. Sharing of information is what makes the grid smart.
+
 3.  **The Network**
+
     Monetization of the network is not new, but the fact that new open machine-to-machine equivalents are [popping up like mushrooms](http://thethingsnetwork.org/) is very interesting and might become a disruptive trend over time.
+
 4.  **The Cloud**
+
     Under the pretext of _more is better_, data is being harvested from everywhere and the one who owns the most data seems to win the digital dollar. We see open cloud services (like Google with Weave) and proprietary, custom, private cloud services emerge as new cloud based business models.
 
 > Sharing of information is what makes the grid smart.
@@ -129,7 +136,6 @@ And as always, the interesting issue lies in the question: _What’s in it for G
 
 Whatever direction you will take for your solution (Weave in the Google Cloud or Weave with a custom cloud), it will be a win-win situation for Google- because these two opportunities seem to be likely candidates to become the VHS of the Internet of Things.
 
-Written by: [Bob van Luijt](https://medium.com/u/84d6487232c8)
-Editor: [Renate Roze](https://medium.com/u/6e8e046beffb)
+Written by : [Bob van Luijt](https://medium.com/u/84d6487232c8)
 
-[Click here to sign up for my newsletter](http://eepurl.com/bS52SL)
+Editor : [Renate Roze](https://medium.com/u/6e8e046beffb)
