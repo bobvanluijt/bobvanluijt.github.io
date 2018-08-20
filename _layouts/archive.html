@@ -1,0 +1,18 @@
+---
+layout: default
+---
+<div class="container">
+  <div class="row">
+    <div class="col-12">
+      <a href="/archive/">&nbsp;&nbsp;All&nbsp;&nbsp;>&nbsp;</a>
+      {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
+      {% for year in postsByYear %}
+      <a href="/archives/{{ year.name }}/">&nbsp;{{ year.name }}&nbsp; </a>
+      <!-- <a>{{ year.name }}</h1> -->
+      {% endfor %}
+    </div>
+  </div>
+</div>
+{% for post in site.posts %}
+  {% include archive-single.html %}
+{% endfor %}
