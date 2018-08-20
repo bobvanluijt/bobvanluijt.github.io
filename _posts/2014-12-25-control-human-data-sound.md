@@ -7,6 +7,7 @@ tags: Art Technology Popular-And-Trending
 img_title: "control(human, data, sound)"
 img_sub_title: ""
 bg_color: ""
+redirect_from: /about-my-latest-work-control-human-data-sound-7d31c123f4ee/
 ---
 # A story about how I created music out of data
 # control(human, data, sound)

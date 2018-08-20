@@ -21,6 +21,7 @@ repository               : # GitHub username/repo-name e.g.
 markdown: kramdown
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
 collections:
   posts:
     permalink: /blog/:title/
