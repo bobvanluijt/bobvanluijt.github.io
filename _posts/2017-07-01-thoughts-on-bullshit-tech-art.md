@@ -3,7 +3,7 @@ layout: post
 img : "5.jpeg"
 title : "Thoughts on bullshit tech-art"
 sub-title: "About artists using empty rhetorics to draw a crowd."
-tags: Artificial Intelligence-Art Bullshit
+tags: Artificial-Intelligence Art Bullshit
 img_title: "Thoughts on bullshit tech-art"
 img_sub_title: ""
 bg_color: ""
