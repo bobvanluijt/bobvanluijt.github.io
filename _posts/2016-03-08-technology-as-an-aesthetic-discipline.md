@@ -3,7 +3,7 @@ layout: post
 img : "3.jpeg"
 title : "Technology as an aesthetic discipline"
 sub-title: "How machines can create new forms of art"
-tags: Art Technology Recent
+tags: art technology recent
 img_title: "Technology as an aesthetic discipline"
 img_sub_title: ""
 bg_color: ""

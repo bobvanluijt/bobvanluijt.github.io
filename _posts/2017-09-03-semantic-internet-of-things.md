@@ -6,7 +6,7 @@ sub-title: "Thoughts on a Semantic Internet of Things"
 img_title: "Semantic Internet of Things"
 img_sub_title: "part 1 - Semantic"
 bg_color: ""
-tags: Artificial-Intelligence Semanticweb Internet-of-Things Semantic-Iot IoT
+tags: artificial-intelligence semanticweb internet-of-things semantic-iot iot
 redirect_from: /semantic-internet-of-things-42811e1ca7a7/
 ---
 

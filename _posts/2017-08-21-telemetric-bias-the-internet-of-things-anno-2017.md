@@ -6,7 +6,7 @@ sub-title: "“Telemetric bias? What’s that?” he asked."
 img_title: "Telemetric Bias"
 img_sub_title: "& the Internet of things anno 2017"
 bg_color: ""
-tags: Internet-of-Things Telemetric-Bias Semanticweb Semantics
+tags: internet-of-things telemetric-bias semanticweb semantics
 redirect_from: /telemetric-bias-the-internet-of-things-anno-2017-121034b54b6d/
 ---
 

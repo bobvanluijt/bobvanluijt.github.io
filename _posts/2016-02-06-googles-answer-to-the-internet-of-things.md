@@ -3,7 +3,7 @@ layout: post
 img : "2.jpeg"
 title : "Googles Answer to the Internet of Things"
 sub-title: "An article about Google products Brillo and Weave"
-tags: Internet-of-Things Google Popular-And-Trending
+tags: internet-of-things google popular-and-trending
 img_title: "Googles Answer to the Internet of Things"
 img_sub_title: ""
 bg_color: ""

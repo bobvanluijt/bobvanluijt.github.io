@@ -6,7 +6,7 @@ sub-title: "We touched quickly on the question when I believed something —�
 img_title: "When is something good?"
 img_sub_title: ""
 bg_color: ""
-tags: Ethics Design Art Culture Aesthetics
+tags: ethics design art culture aesthetics
 redirect_from: /when-is-something-good-ade87a3fde3a/
 ---
 

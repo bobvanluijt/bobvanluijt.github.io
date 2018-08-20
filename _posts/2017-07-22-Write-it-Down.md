@@ -6,7 +6,7 @@ sub-title: "About why it is important to write ideas down."
 img_title: "Write it Down!"
 img_sub_title: ""
 bg_color: ""
-tags: Design Writing Technology Strategy
+tags: design writing technology strategy
 redirect_from: /write-it-down-a8b046194c27/
 ---
 When I studied in Boston, I had a teacher who kept repeating one thing over and over in his distinctive New Yorker accent.

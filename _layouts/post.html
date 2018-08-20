@@ -35,7 +35,7 @@ layout: default
     </div>
   </div>
   {% for tag in page.tags %}
-    <a href="/tag/{{ tag }}"><code class="highligher-rouge"><nobr>{{ tag }}</nobr></code></a>
+    <a href="/tag/{{ tag }}" class="tag"><code class="highligher-rouge"><nobr>{{ tag | replace: '-', ' '}}</nobr></code></a>
   {% endfor %}
 </div>
 <div class="container">
