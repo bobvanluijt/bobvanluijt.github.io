@@ -7,6 +7,7 @@ tags: Machine-Learning Artificial-Intelligence Recent
 img_title: "Artificial Imagination"
 img_sub_title: ""
 bg_color: ""
+redirect_from: /artificial-imagination-4081d5510271/
 ---
 
 > “Imagination: the faculty or action of forming new ideas, or images or concepts of external objects not present to the senses.”

@@ -7,6 +7,7 @@ img_title: "Semantic Internet of Things"
 img_sub_title: "part 1 - Semantic"
 bg_color: ""
 tags: Artificial-Intelligence Semanticweb Internet-of-Things Semantic-Iot IoT
+redirect_from: /semantic-internet-of-things-42811e1ca7a7/
 ---
 
 I believe that it will not be long before the Internet and the Web will [break the fourth wall](https://alwaysactingup.wordpress.com/what-is-the-4th-wall/) and become truly [ubiquitous](https://en.wikipedia.org/wiki/Ubiquitous_computing). However, I also believe that this breakthrough is juxtaposed with the poor [computational design](https://computationaldesign.org/) of the representation of the physical world in digital systems, which results in a tremendous loss of knowledge. In this blog post, I will explain why I believe we should look at merging the digital with the physical in a semantic way. I will also suggest a more progressive definition of what I believe the Internet of Things should be by adopting the Web 3.0 frameworks as proposed by Tim Berners-Lee et al. This blog is the first in a series of blogs of unknown length. I will share the results of my search on what I believe it means to merge the physical properly with the digital.

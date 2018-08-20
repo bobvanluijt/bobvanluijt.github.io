@@ -7,6 +7,7 @@ img_title: "From Digital to Physical Innovation"
 img_sub_title: ""
 bg_color: red;
 tags: Innovation-Digital Transformation-Digital Innovation-Design
+redirect_from: /https-bob-wtf-from-digital-to-physical-innovation-c57b03bf2861/
 ---
 
 “What do you mean, digital technology is starting to influence the physical world?!” A friend asked, “You mean that we will have chips in things like mugs, cars, and cows making them all some kind of Internet of Things device?”

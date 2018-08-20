@@ -7,6 +7,7 @@ img_title: "A business case for a smart building"
 img_sub_title: "and a strategy to help you get there"
 bg_color: red;
 tags: Internet-of-Things Smart-Buildings Strategy Business-Case Technology
+redirect_from: /a-business-case-for-a-smart-building-bbe434d04847/
 ---
 
 During my work as a digital technology consultant in the realm of the Internet of Things, I often encounter people who ask me what the direct benefits are of investing in a smart building or smart warehouse and what the viable strategies are to accomplish these benefits. In this article, I will describe the core principles for a viable business case in depth, and I’ll explain what you can do strategically to position yourself to achieve these goals.

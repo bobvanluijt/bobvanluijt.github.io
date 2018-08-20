@@ -7,6 +7,7 @@ img_title: "When is something good?"
 img_sub_title: ""
 bg_color: ""
 tags: Ethics Design Art Culture Aesthetics
+redirect_from: /when-is-something-good-ade87a3fde3a/
 ---
 
 Recently I was a guest on a Dutch podcast: “[The Good the Bad and the Interesting](https://vasilis.nl/gbi/2017/04/22/bob-van-luijt/).” I was there to defend my statement about the role of mediocrity in today’s society (something I will write another blog post about later). At the beginning of the podcast, we touched quickly on the question when I believed something — like design, art, business, etcetera, to be _good_ (as in: well made). And the answer that I gave is something that many people have asked me to elaborate on later after listing to the podcast.

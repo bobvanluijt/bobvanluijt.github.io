@@ -7,6 +7,7 @@ img_title: "Write it Down!"
 img_sub_title: ""
 bg_color: ""
 tags: Design Writing Technology Strategy
+redirect_from: /write-it-down-a8b046194c27/
 ---
 When I studied in Boston, I had a teacher who kept repeating one thing over and over in his distinctive New Yorker accent.
 

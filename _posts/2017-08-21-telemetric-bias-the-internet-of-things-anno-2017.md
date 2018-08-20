@@ -7,6 +7,7 @@ img_title: "Telemetric Bias"
 img_sub_title: "& the Internet of things anno 2017"
 bg_color: ""
 tags: Internet-of-Things Telemetric-Bias Semanticweb Semantics
+redirect_from: /telemetric-bias-the-internet-of-things-anno-2017-121034b54b6d/
 ---
 
 > Not all those who wander are lost.

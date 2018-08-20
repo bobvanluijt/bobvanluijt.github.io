@@ -7,6 +7,7 @@ img_title: "Are games the future of literature?"
 img_sub_title: ""
 bg_color: ""
 tags: Games Art Literature
+redirect_from: /are-games-the-future-of-literature-f24d640585ec/
 ---
 
 Two interesting things I am reading online:

@@ -7,6 +7,7 @@ tags: Art Technology Recent
 img_title: "Technology as an aesthetic discipline"
 img_sub_title: ""
 bg_color: ""
+redirect_from: /technology-as-an-aesthetic-discipline-300eba3179f0/
 ---
 A thought experiment: think of a group or individual who developed a work of art, in a traditional artistic discipline and after the turn of the millennium, that led to a social movement.
 

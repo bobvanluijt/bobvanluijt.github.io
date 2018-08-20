@@ -7,6 +7,7 @@ tags: Artificial Intelligence-Art Bullshit
 img_title: "Thoughts on bullshit tech-art"
 img_sub_title: ""
 bg_color: ""
+redirect_from: /thoughts-on-bullshit-tech-art-9ea2d6507abf/
 ---
 
 During my morning coffee, I’m reading the following tweet and accompanying article:

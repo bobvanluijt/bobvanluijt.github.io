@@ -7,6 +7,7 @@ img_title: "Masters of Creative Leaps"
 img_sub_title: "& other thoughts on creativity"
 bg_color: ""
 tags: Philosophy Art Technology Design Creativity
+redirect_from: /masters-of-creative-leaps-43b0bd37c8c8/
 ---
 
 You are working late, and you want to go home. You pack your things, walk toward the elevator, and press the button; however, you notice that the elevator is not moving. Luckily, you are only on the sixth floor, so you decide to take the stairs. But, as soon as you try to open the door to the staircase, you notice that somebody had blocked the door from the outside! You are stuck on the sixth floor; you can call for somebody to come and get you, but before you take out your phone, you remember that there is a small window in the storage room that leads directly to the fire staircase. So, you climb out of the window, walk one flight down, and take the regular stairs.
