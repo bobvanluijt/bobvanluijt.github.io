@@ -1,6 +1,6 @@
 ---
 layout: tagpage
 title: "Tag: Innovation"
-tag: Innovation
+tag: innovation
 robots: noindex
 ---

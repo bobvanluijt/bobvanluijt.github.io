@@ -1,6 +1,6 @@
 ---
 layout: tagpage
 title: "Tag: Technology"
-tag: Technology
+tag: technology
 robots: noindex
 ---

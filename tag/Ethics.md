@@ -1,6 +1,6 @@
 ---
 layout: tagpage
 title: "Tag: Ethics"
-tag: Ethics
+tag: ethics
 robots: noindex
 ---

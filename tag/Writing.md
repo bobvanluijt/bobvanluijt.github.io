@@ -1,6 +1,6 @@
 ---
 layout: tagpage
 title: "Tag: Writing"
-tag: Writing
+tag: writing
 robots: noindex
 ---

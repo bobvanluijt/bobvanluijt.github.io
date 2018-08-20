@@ -1,6 +1,6 @@
 ---
 layout: tagpage
 title: "Tag: Culture"
-tag: Culture
+tag: culture
 robots: noindex
 ---

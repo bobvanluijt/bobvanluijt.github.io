@@ -1,6 +1,6 @@
 ---
 layout: tagpage
 title: "Tag: Art"
-tag: Art
+tag: art
 robots: noindex
 ---

@@ -1,6 +1,6 @@
 ---
 layout: tagpage
 title: "Tag: Bullshit"
-tag: Bullshit
+tag: bullshit
 robots: noindex
 ---

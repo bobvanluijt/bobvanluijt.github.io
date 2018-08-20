@@ -1,6 +1,6 @@
 ---
 layout: tagpage
 title: "Tag: Recent"
-tag: Recent
+tag: recent
 robots: noindex
 ---

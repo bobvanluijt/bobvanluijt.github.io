@@ -1,6 +1,6 @@
 ---
 layout: tagpage
 title: "Tag: Design"
-tag: Design
+tag: design
 robots: noindex
 ---

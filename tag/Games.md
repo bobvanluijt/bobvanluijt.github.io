@@ -1,6 +1,6 @@
 ---
 layout: tagpage
 title: "Tag: Games"
-tag: Games
+tag: games
 robots: noindex
 ---

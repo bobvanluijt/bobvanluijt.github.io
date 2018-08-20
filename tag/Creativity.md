@@ -1,6 +1,6 @@
 ---
 layout: tagpage
 title: "Tag: Creativity"
-tag: Creativity
+tag: creativity
 robots: noindex
 ---

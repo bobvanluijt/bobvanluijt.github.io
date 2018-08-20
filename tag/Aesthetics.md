@@ -1,6 +1,6 @@
 ---
 layout: tagpage
 title: "Tag: Aesthetics"
-tag: Aesthetics
+tag: aesthetics
 robots: noindex
 ---

@@ -1,6 +1,6 @@
 ---
 layout: tagpage
 title: "Tag: Semanticweb"
-tag: Semanticweb
+tag: semanticweb
 robots: noindex
 ---

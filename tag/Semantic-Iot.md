@@ -1,6 +1,6 @@
 ---
 layout: tagpage
 title: "Tag: Semantic-Iot"
-tag: Semantic-Iot
+tag: semantic-iot
 robots: noindex
 ---

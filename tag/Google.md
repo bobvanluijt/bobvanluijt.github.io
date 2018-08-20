@@ -1,6 +1,6 @@
 ---
 layout: tagpage
 title: "Tag: Google"
-tag: Google
+tag: google
 robots: noindex
 ---

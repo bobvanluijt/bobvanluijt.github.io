@@ -1,6 +1,6 @@
 ---
 layout: tagpage
 title: "Tag: Artificial-Intelligence"
-tag: Artificial-Intelligence
+tag: artificial-intelligence
 robots: noindex
 ---

@@ -1,6 +1,6 @@
 ---
 layout: tagpage
 title: "Tag: IoT"
-tag: IoT
+tag: iot
 robots: noindex
 ---

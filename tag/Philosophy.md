@@ -1,6 +1,6 @@
 ---
 layout: tagpage
 title: "Tag: Philosophy"
-tag: Philosophy
+tag: philosophy
 robots: noindex
 ---

@@ -1,6 +1,6 @@
 ---
 layout: tagpage
 title: "Tag: Semantics"
-tag: Semantics
+tag: semantics
 robots: noindex
 ---
