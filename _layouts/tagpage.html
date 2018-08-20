@@ -8,7 +8,7 @@ layout: default
         <div class="col">
           <div class="post">
             <p>TAGGED IN</p>
-            <h2>{{ page.tag }}</h2>
+            <h2 class="tag">{{ page.tag  | replace: '-', ' ' | capitalize}}</h2>
           </div>
           <hr>
         </div>
@@ -16,12 +16,19 @@ layout: default
     </div>
     <div class="container">
       <div class=" mb-3 text-center row">
-        {% for post in site.tags[page.tag] %}
+        {% assign t = site.tags[page.tag] %}
+        {% for post in t %}
         <div class="col-sm-12 no-gutters no-padding card mb-4 box-shadow">
           <div class="card-body">
-            <a href="{{ post.url }}">
-              <img class="post_img" src="/assets/images/{{ post.img }}" alt="">
-            </a>
+            <div class="post_img latest_img" style="background:{{ post.bg_color }};">
+              <a href="{{ post.url }}" class="post_link">
+                <!-- <img class="post_img" src="/assets/images/{{ post.img }}" alt=""> -->
+                <div class="post_head_img latest_head_img">
+                  <h1 class="latest_post_img_title post_img_title">{{ post.img_title }} <br>
+                  <small>{{ post.img_sub_title }}</small> </h1>
+                </div>
+              </a>
+            </div>
           </div>
           <div class="card-body">
             <a href="{{ post.url }}">
