@@ -3,16 +3,49 @@ layout: default
 ---
 <div class="container">
   <div class="row">
-    <div class="col-12">
+    <div class="col-sm-10 offset-sm-1 mt-3 mb-3">
       <a href="/archive/">&nbsp;&nbsp;All&nbsp;&nbsp;>&nbsp;</a>
       {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
       {% for year in postsByYear %}
-      <a href="/archives/{{ year.name }}/">&nbsp;{{ year.name }}&nbsp; </a>
+      <a href="#{{ year.name }}">&nbsp;{{ year.name }}&nbsp; </a>
       <!-- <a>{{ year.name }}</h1> -->
       {% endfor %}
     </div>
   </div>
 </div>
-{% for post in site.posts %}
-  {% include archive-single.html %}
+
+
+
+{% for post in site.posts  %}
+  {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+  {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
+
+  {% if forloop.first %}
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-10 offset-sm-1">
+        <h2 id="{{ this_year }}">{{this_year}}</h2>
+      </div>
+    </div>
+  </div>
+  <ul>
+  {% endif %}
+
+  {% include archive-post.html %}
+
+  {% if forloop.last %}
+  </ul>
+  {% else %}
+      {% if this_year != next_year %}
+      </ul>
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-10 offset-sm-1">
+            <h2 id="{{ next_year }}">{{next_year}}</h2>
+          </div>
+        </div>
+      </div>
+      <ul>
+      {% endif %}
+  {% endif %}
 {% endfor %}
