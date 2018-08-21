@@ -178,8 +178,11 @@
   }
 }
 .tag {
-  font-size: 45px;
+  text-transform: capitalize;
+}
+.tag_hash {
   font-weight: bold;
+  font-size: 45px;
   text-decoration: underline;
 }
 #bob_image {
