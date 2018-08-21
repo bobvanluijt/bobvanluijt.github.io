@@ -67,6 +67,15 @@
 .latest_img {
   height: 350px;
   position: relative;
+  @media only screen and (max-width: 1024px) {
+    font-size: 24px;
+  }
+  @media only screen and (max-width: 767px) {
+    height: 300px;
+  }
+  @media only screen and (max-width: 320px) {
+    height: 200px;
+  }
   a {
     color: #000;
   }
@@ -77,20 +86,67 @@
     position: unset;
     .latest_post_img_title {
       font-size: 68px;
+      @media only screen and (max-width: 768px) {
+        font-size: 42px;
+      }
+      @media only screen and (max-width: 767px) {
+        font-size: 38px;
+      }
+      @media only screen and (max-width: 320px) {
+        font-size: 26px;
+      }
       small {
         font-size: 28px;
+        @media only screen and (max-width: 1024px) {
+          font-size: 24px;
+        }
+        @media only screen and (max-width: 767px) {
+          font-size: 20px;
+        }
+        @media only screen and (max-width: 320px) {
+          font-size: 16px;
+        }
       }
     }
   }
   .latest_post_img_title {
     font-size: 52px;
+    @media only screen and (max-width: 768px) {
+      font-size: 38px;
+    }
+    @media only screen and (max-width: 767px) {
+      font-size: 32px;
+    }
+    @media only screen and (max-width: 320px) {
+      font-size: 24px;
+    }
     small {
       font-size: 16px;
+      @media only screen and (max-width: 1024px) {
+        font-size: 16px;
+      }
+      @media only screen and (max-width: 767px) {
+        font-size: 12px;
+      }
+      @media only screen and (max-width: 320px) {
+        font-size: 8px;
+      }
     }
   }
 }
 .single_img {
-  height: 450px;
+  min-height: 450px;
+  @media only screen and (max-width: 767px) {
+    min-height: 350px;
+  }
+  .post_img_title {
+    max-width: 80%;
+    padding-left: 20%;
+    @media only screen and (max-width: 768px) {
+      max-width: 100%;
+      padding-left: 10%;
+    }
+  }
 }
 .s_link {
   margin-top: 15px;
