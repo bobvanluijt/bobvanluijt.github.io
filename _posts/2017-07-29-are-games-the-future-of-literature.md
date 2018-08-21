@@ -5,7 +5,7 @@ title : "Are games the future of literature?"
 sub-title: "An article about the future of literature."
 img_title: "Are games the future of literature?"
 img_sub_title: ""
-bg_color: ""
+bg_color: "#ffbe34"
 tags: games art literature
 redirect_from: /are-games-the-future-of-literature-f24d640585ec/
 ---

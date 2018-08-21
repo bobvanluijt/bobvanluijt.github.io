@@ -5,7 +5,7 @@ title : "Write it Down!"
 sub-title: "About why it is important to write ideas down."
 img_title: "Write it Down!"
 img_sub_title: ""
-bg_color: ""
+bg_color: "#d169d4"
 tags: design writing technology strategy
 redirect_from: /write-it-down-a8b046194c27/
 ---

@@ -5,7 +5,7 @@ title : "A Business Case for a Smart Building"
 sub-title: "A business case for a smart building and a strategy to help you get there."
 img_title: "A business case for a smart building"
 img_sub_title: "and a strategy to help you get there"
-bg_color: red;
+bg_color: "#00d75b"
 tags: internet-of-things smart-buildings strategy business-case technology
 redirect_from: /a-business-case-for-a-smart-building-bbe434d04847/
 ---

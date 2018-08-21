@@ -6,7 +6,7 @@ sub-title: "An article about Google products Brillo and Weave"
 tags: internet-of-things google popular-and-trending
 img_title: "Googles Answer to the Internet of Things"
 img_sub_title: ""
-bg_color: ""
+bg_color: "#f4ea16"
 redirect_from: /google-s-answer-to-the-internet-of-things-ebd11b37f2ad/
 ---
 _A bird’s–eye view on the business, design and technology side of Google’s proposition for the Internet of Things. These views are based on early access to Google’s Android Things and Weave developers platforms and the Ubiquity Conference held in January 2016 in San Francisco._

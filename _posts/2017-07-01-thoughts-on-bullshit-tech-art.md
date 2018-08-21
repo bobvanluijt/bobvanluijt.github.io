@@ -6,7 +6,7 @@ sub-title: "About artists using empty rhetorics to draw a crowd."
 tags: artificial-intelligence art bullshit
 img_title: "Thoughts on bullshit tech-art"
 img_sub_title: ""
-bg_color: ""
+bg_color: "#05ab1b"
 redirect_from: /thoughts-on-bullshit-tech-art-9ea2d6507abf/
 ---
 

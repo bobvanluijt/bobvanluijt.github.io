@@ -5,7 +5,7 @@ title : "Masters of Creative Leaps"
 sub-title: "Masters of Creative Leaps & other thoughts on creativity"
 img_title: "Masters of Creative Leaps"
 img_sub_title: "& other thoughts on creativity"
-bg_color: ""
+bg_color: "#00fcdb"
 tags: philosophy art technology design creativity
 redirect_from: /masters-of-creative-leaps-43b0bd37c8c8/
 ---

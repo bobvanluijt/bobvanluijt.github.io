@@ -5,7 +5,7 @@ title : "From Digital to Physical Innovation"
 sub-title: "Why companies like Facebook and Google are building cities and neighbourhoods."
 img_title: "From Digital to Physical Innovation"
 img_sub_title: ""
-bg_color: red;
+bg_color: "#f1506f"
 tags: innovation digital-transformation digital-innovation-design
 redirect_from: /https-bob-wtf-from-digital-to-physical-innovation-c57b03bf2861/
 ---

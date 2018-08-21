@@ -5,7 +5,7 @@ title : "When is something good?"
 sub-title: "We touched quickly on the question when I believed something — like design, art, business, etcetera, to be good"
 img_title: "When is something good?"
 img_sub_title: ""
-bg_color: ""
+bg_color: "#ff7069"
 tags: ethics design art culture aesthetics
 redirect_from: /when-is-something-good-ade87a3fde3a/
 ---

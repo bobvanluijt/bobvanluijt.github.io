@@ -6,7 +6,7 @@ sub-title: "Ever wondered what it would take to have a machine conceive of hyper
 tags: machine-learning artificial-intelligence Recent
 img_title: "Artificial Imagination"
 img_sub_title: ""
-bg_color: ""
+bg_color: "#fe339e"
 redirect_from: /artificial-imagination-4081d5510271/
 ---
 
