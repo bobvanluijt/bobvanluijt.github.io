@@ -29,7 +29,7 @@ Android Things, also open source, consists of an OS (Android), core services, a 
 
 Last year (2015) was [_almost_](http://www.wired.com/2015/12/this-year-was-almost-the-year-of-the-internet-of-things/) the year of the Internet of Things. Almost, because businesses are struggling to find the right monetization strategies and for the looks of it, traditional business models are being leveraged to fill those needs.
 
-![](https://cdn-images-1.medium.com/max/600/1*5jFVgS8W2Lb2Ud2VrbwXBQ.png)
+![](/assets/images/12-1.png)
 
 Device — Connection — API — Cloud
 
@@ -59,7 +59,7 @@ With Weave and Android Things, Google does what it always does: making the softw
 
 ### Google’s Design principles for IoT
 
-![](https://cdn-images-1.medium.com/max/600/1*9Gku2jUXJyaQL5A8-Iv33Q.png)
+![](/assets/images/12-2.png)
 
 [Timothy Jordan](https://twitter.com/timothyjordan) ([https://goo.gl/gM5y6Z](https://goo.gl/gM5y6Z)) sharing the Google (UX) IoT vision during the [Ubiquity conference](http://ubiquity.withgoogle.com) in San Francisco
 
@@ -71,7 +71,7 @@ During the first [Ubiquity Conference](http://ubiquity.withgoogle.com) in San Fr
 
 With the three design principles and the four monetizable options in mind, we can start looking at software implementations and how Google’s Weave can help us succeed in creating an end-to-end connected product.
 
-![](https://cdn-images-1.medium.com/max/800/1*zb6jjTfqoLyX28MkBg807g.png)
+![](/assets/images/12-3.png)
 
 #### 1\. Brillo, Libweave and uWeave
 
@@ -88,7 +88,7 @@ _— Weave on your microcontrollers._
 
 #### 2\. Connecting with HTTPS, XMPP and mDNS
 
-![](https://cdn-images-1.medium.com/max/600/1*MND2IAjc00ZhKMZ_uxH_Ow.png)
+![](/assets/images/12-4.png)
 
 Weave enables communication between the cloud and devices, and assumes your phone to be the ‘remote control’ of the devices.
 
@@ -125,7 +125,7 @@ _**_GET https://www.googleapis.com/discovery/v1/apis/weave/v1/rest_**
 
 #### 4\. Google Cloud and the Console
 
-![](https://cdn-images-1.medium.com/max/600/1*Ko9lt27RQUNmsuB-JMBxEA.jpeg)
+![](/assets/images/12-5.jpeg)
 
 Devices are stored and managed in the Weave console. The console gives you the possibility to set up products and manage devices. Two notable options are the possibility to deploy updates on devices in badges and get anonymized device reporting.
 

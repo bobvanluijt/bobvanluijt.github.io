@@ -28,7 +28,7 @@ My hypothesis did not develop overnight and although I did give a few talks last
 
 The first time I sensed it was when I studied the business writings of Peter Thiel. In his book Zero to One, Thiel describes how the business world in “bits and bytes” works differently than its counterpart in the worlds of “atoms and molecules”. He [shared insights and methodologies](https://www.youtube.com/watch?v=lxDApu-LXrE) which I knew could also have a profound effect on the physical world. Furthermore, Google’s moonshot [company X](https://x.company/projects/) was doing a lot of physical projects in which there surely is a lot of digital technology involved, but the physical part of the projects seems profoundly different and unique too. But all that just triggered my idea, my feeling, my hunch that there was something more there. I just wasn’t sure what yet. It wasn’t until the winter of 2017 that I knew I was on to something more.
 
-![](https://cdn-images-1.medium.com/max/600/1*AVlEqHkAr6f7fxXodln6yw.jpeg)
+![](/assets/images/1-1.jpeg)
 
 The Boring Company’s boring machine, a.k.a. The Mole. —©[Johan Tedestål](https://medium.com/u/69ac39ea0774)
 
@@ -49,7 +49,7 @@ Two similar moments where people with undeniable expertise in their respective f
 
 Around the turn of the year, I was working as a smart building consultant. I was helping some clients to define ways how a [digitally smart building platform](https://bob.wtf/a-business-case-for-a-smart-building-bbe434d04847) could improve the experience of the inhabitants of their buildings. When I get such a gig, the first things I do is to explain how a “digital platform” enables the creation of an efficient ecosystem. I know this sounds a bit abstract. But it becomes more lively by visualizing the building as a human body. The digital platform would function as the brain of the building, receiving stimuli (id est, data) from the building directly, to allow it to “observe” the state of the building. Taking the idea further, the platform could also control the muscle of the building, like sending an elevator to a floor, adjusting the light and temperature). To achieve all this, we would need a nervous system in the form of physical cables. And just like the body -where via one nervous system- the nerves that transmit the signal of tickling, are the same that transport the signal for heat or pain.
 
-![](https://cdn-images-1.medium.com/max/600/1*HscxHn-DRwSLKfhXy3Lnbw.png)
+![](/assets/images/1-2.png)
 
 Smart Building, ©[Lemonbeat](https://www.lemonbeat.com/lean-building-automation/)
 

@@ -31,7 +31,7 @@ The famous quote “software is eating the world” by Marc Andreessen in 2011, 
 
 Vendors of hardware for the office or home (i.e., coffee machines, elevators, etcetera) have figured out that the most viable upsell for them lies in products and services that are mostly software based. If you buy X (where X can be anything physical, like a coffee machine, an elevator, a bike, a solar panel, and so on), you can additionally purchase add-ons like smart apps, smart screens, analytics tools, device management platforms, etcetera. The average offering from a single hardware vendor contains up to 30% of these upsells!
 
-![](https://cdn-images-1.medium.com/max/800/1*tXp0kWf7uIABENQw-cOnkA.png)
+![](/assets/images/2-1.png)
 
 ALARM! Vendor of hardware wants to control your data streams!
 
@@ -59,7 +59,7 @@ Which leaves us with the question: How?
 
 Hardware and software applications communicate to the cloud through APIs. The I in API stands for Interface; it has the same function as the interface on your smartphone, but it is an interface for applications. **If you get ownership of the data streams, going back and forth between services, you are in control of how that data is used.**
 
-![](https://cdn-images-1.medium.com/max/1000/1*YxAgfXfukyU7v-EhtPBp5A.png)
+![](/assets/images/2-2.png)
 
 Image 2\. Have ownership and act as a proxy between data sources, block all direct access from vendor to vendor.
 
@@ -99,7 +99,7 @@ I’m using the word _delightful_ on purpose. Great apps (Facebook for example) 
 
 This is why cutting costs by centralizing datastreams and investing in a delightful user experience is something circular. If you do not have access and control over the data sources, you cannot show it to your users, and you have to pay a premium, but if you have bad touchpoints, you are forced to pay a premium for extra upsells from vendors.
 
-![](https://cdn-images-1.medium.com/max/1000/1*Vpxml9LBO0E3ObonSabTtw.png)
+![](/assets/images/2-3.png)
 
 Image 3\. User Experience and API strategies enhance each other, it is a circular motion.
 
@@ -109,7 +109,7 @@ Image 3\. User Experience and API strategies enhance each other, it is a circula
 The creation of touchpoints–for example, apps–is often deemed a monstrous endeavor that takes up a lot of resources, but also here, there is a simple strategy available. Most enterprises have software for apps or websites available for their core products. Often, these software packages are created in a modular fashion, also known as frameworks. A framework is an empty app or website frontend that you can use and fill with your own information. You do not have to reinvent the wheel at all. And because you control the datastreams and the information in the apps, making changes are getting more trivial the further you move ahead in the future.
 
 
-![](https://cdn-images-1.medium.com/max/800/1*fyqNf5f1C3LUsUONCUBjZw.png)
+![](/assets/images/2-4.png)
 
 Image 4\. Upsells from a fictitious elevator company. Green is good, red is bad.
 
@@ -118,7 +118,7 @@ Image 4\. Upsells from a fictitious elevator company. Green is good, red is bad
 
 In a situation where a vendor controls a data stream or touchpoint, it is difficult to argue over mediocre software or a mediocre user experience. By being in control over a centralized platform, you can experiment with other vendors solving similar problems and cutting out mediocre vendors by simply replacing them with others. The upside of this is that you can create competition in your ecosystem (who has the best energy analyzing tool?) which increases the quality of outcome and reduces costs.
 
-![](https://cdn-images-1.medium.com/max/1000/1*JQG-xKMsHC_O1YZCOX95EA.png)
+![](/assets/images/2-5.png)
 
 Image 5\. Position yourself at the head of the table!
 
@@ -131,7 +131,7 @@ Physical ethernet cables with the digital TCP/IP protocol allow for many devices
 
 So, also from an infrastructural planning perspective, it is important to bear the platform strategy in mind. Smart choices can save tremendous amounts of time and, therefore, money in the long run.
 
-![](https://cdn-images-1.medium.com/max/1000/1*k0u8PFtEMCbt07JRaiTPdg.png)
+![](/assets/images/2-6.png)
 
 Image 6\. A proper smart building hardware stack.
 
@@ -148,7 +148,7 @@ The moral of the story is this. Make sure that you choose vendors that go to an 
 
 The above stack (image 6) can also be used to construct assessment models for vendors of hardware and infrastructure. In the image below (image 7) you can see how two fictitious companies are assessed. The companies that score a green mark are able to offer end-to-end TCP/IP as ideally as possible.
 
-![](https://cdn-images-1.medium.com/max/1000/1*Q7DUZtfU2WrP9SZtSiwdEA.png)
+![](/assets/images/2-7.png)
 
 Image 7\. Fictitious hardware and infrastructure vendor assessments.
 

@@ -42,7 +42,7 @@ I needed to integrate MIDI into Node.js, which was quite tricky, despite having 
 
 Luckily, there is a complete [overview of binary MIDI commands on midi.org](http://www.midi.org/techspecs/midimessages.php).
 
-![](https://cdn-images-1.medium.com/max/800/1*NS0nNpU-O4PZxiYPRo7Wmw.png)
+![](/assets/images/13-1.png)
 
 Excerpt of binary MIDI commands on [MIDI.org](http://midi.org)
 
@@ -51,7 +51,7 @@ Excerpt of binary MIDI commands on [MIDI.org](http://midi.org)
 When I was done setting up the Node.js MIDI interface, I was able to send single MIDI notes through to Logic and play a simple synthesizer. After setting up the interface, I could start drawing out the composition. I took a simple A-B-A’ form to execute. The tempi and key (if needed) would be set in the beginning and for the rest all variables were open. I also needed to choose my instruments. I chose 14 instruments from 3 libraries, which were strings and string section effects from Project SAM’s Symphobia 2 series, Eduardo Tarilonte’s Epic World and Best Service’s Synth Werk.
 Last but not least I needed an interface, so I created a three column interface displaying all the information about the composition while it was playing.
 
-![](https://cdn-imagzes-1.medium.com/max/800/1*7ekj9XVAe7a_d-XATjUv2Q.png)
+![](/assets/images/13-2.png)
 
 This is the player in the console.
 
@@ -59,9 +59,7 @@ The first column represents the output of the requested data. In the example the
 
 So, below is what a function may look like. It is the _counterpoint_ function that I use as the beginning of the B section, you can see it very well on the video.
 
-![](https://cdn-images-1.medium.com/max/800/1*tW1xl5boTsbpA1fsqP44Vw.png)
-
-<div class="aspectRatioPlaceholder is-locked" style="max-width: 700px; max-height: 410px;">![](https://cdn-images-1.medium.com/max/800/1*7ekj9XVAe7a_d-XATjUv2Q.png)</div>
+![](/assets/images/13-3.png)
 
 An example of how these variables may be used in a function.
 

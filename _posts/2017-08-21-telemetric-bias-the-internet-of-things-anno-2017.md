@@ -40,7 +40,7 @@ There are four interesting things that Kevin talks about;
 
 This allows us to capture the initial Internet of Things into this quadrant.
 
-![](https://cdn-images-1.medium.com/max/800/1*EOII3j8atdqSppbxUo6RYQ.png)
+![](/assets/images/4-1.png)
 
 Internet of Things core
 
@@ -77,7 +77,7 @@ In IoT, we need the exact same thing. We need sensors that receive input from th
 
 The amazing thing is that a machine can have many, many more senses than a human, like echolocation (a sonar), magnetoception (a magnetic field detector), and many others.
 
-![](https://cdn-images-1.medium.com/max/1000/1*fPw2dldsgBDbI2HAxKLKDQ.png)
+![](/assets/images/4-2.png)
 
 
 ### Sensing by Proxy

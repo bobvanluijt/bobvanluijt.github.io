@@ -37,7 +37,7 @@ Three important things to note:
 2\. Aesthetics is subjective. If the whole world thinks something is ugly except for you, that is fine.
 3\. An artist being good at his or her craft, like a singer, does not equate to the work being of aesthetic value. Many people find Bob Dylan’s work to be of high aesthetic value, but he sings out of tune. This is also the reason why an art school, like a conservatory, does not create artists. It creates people who are good at the craft of playing an instrument.
 
-![](https://cdn-images-1.medium.com/max/600/1*bwkl0VofmGK2hB4n03rsqA.gif)
+![](/assets/images/6-1.gif)
 
 [Mark Stivers](http://www.markstivers.com)
 
@@ -73,4 +73,4 @@ So, to conclude, I believe that something is “good” if you, as the observer,
 
 This can all be captured in the following diagram:
 
-![](https://cdn-images-1.medium.com/max/800/1*c2Ratygdj3ktBSPfT3mfTA.png)
+![](/assets/images/6-2.png)
