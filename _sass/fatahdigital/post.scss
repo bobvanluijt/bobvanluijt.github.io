@@ -179,6 +179,13 @@
 }
 .tag {
   text-transform: capitalize;
+  color: rgba(0,0,0,.68);
+  padding: 5px 10px;
+  background: rgba(0,0,0,.05);
+  border-radius: 3px;
+}
+.tag:hover {
+  background: rgba(0,0,0,.10);
 }
 .tag_hash {
   font-weight: bold;
