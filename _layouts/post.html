@@ -6,11 +6,29 @@ layout: default
     <div class="col-12 no-gutters">
       <div class="post_img latest_img single_img" style="background:{{ page.bg_color }};">
         <div class="post_head_img single_page_img">
-          <h1 class="latest_post_img_title post_img_title">
-            {{ page.title }}<br>
-            <small>{{ page.img_sub_title }}</small>
+          <div class="latest_post_img_title post_img_title">
+            <h1>
+              {{ page.title }}<br>
+              <small>{{ page.img_sub_title }}</small>
+            </h1>
+            <div class="">
+              {% assign words = page.content | number_of_words %}
+              <p>{{ page.date | date: "%b %-d, %Y" }} (
+                {% if words < 360 %}
+                  1
+                {% else %}
+                  {{ words | divided_by:180 }}
+                {% endif %}
+                min read )
+              </p>
+              <p>
+                {% for tag in page.tags %}
+                <a href="/tag/{{ tag }}" class="tag">{{ tag | replace: '-', ' '}}</a>
+                {% endfor %}
+              </p>
+            </div>
             <div class="addthis_inline_share_toolbox social_share_icons"></div>
-          </h1>
+          </div>
 
         </div>
       </div>

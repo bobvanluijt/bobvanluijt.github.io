@@ -63,8 +63,14 @@
     top: 50%;
     transform: translateY(-50%);
     width: 100%;
+    h1 {
+      font-size: inherit;
+    }
     small {
       font-size: 9px;
+    }
+    p {
+      font-family: Roboto,Helvetica,Arial,sans-serif;
     }
   }
 }
@@ -169,7 +175,7 @@
   }
 }
 .post_img {
-  background: #474546;
+  background: #e5e5e5;
 }
 .post_link:hover {
   text-decoration: none;
