@@ -23,7 +23,7 @@ permalink: /tags/
             {% assign sortedtags = site.tags | sort %}
             {% for htag in sortedtags %}
               <li class="">
-                <a href="/tag/{{ htag[0] }}"> {{ htag[0] | replace: '-', ' '}} </a>
+                <a href="/tags/{{ htag[0] }}"> {{ htag[0] | replace: '-', ' '}} </a>
               </li>
             {% endfor %}
 
