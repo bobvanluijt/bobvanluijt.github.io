@@ -188,9 +188,17 @@
   background: rgba(0,0,0,.10);
 }
 .tag_hash {
+  text-transform: capitalize;
+  color: rgba(0,0,0,.68);
+  border-radius: 3px;
   font-weight: bold;
   font-size: 45px;
   text-decoration: underline;
+}
+.tag-list {
+  list-style-position: inside;
+  font-size: 20px;
+  text-transform: capitalize;
 }
 #bob_image {
   padding-bottom: 0px;

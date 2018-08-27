@@ -1,0 +1,36 @@
+---
+layout: page # Page Layout
+title: Tags Archive # Your Page Title
+description: # Your Page Discription
+permalink: /tags/
+---
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-10 offset-sm-1 mt-2">
+      <div class="row">
+        <div class="col">
+          <div class="post">
+            <h2 class="tag_hash">Tags</h2>
+          </div>
+          <hr>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col">
+          <ul class="tag-list">
+            {% assign sortedtags = site.tags | sort %}
+            {% for htag in sortedtags %}
+              <li class="">
+                <a href="/tag/{{ htag[0] }}"> {{ htag[0] | replace: '-', ' '}} </a>
+              </li>
+            {% endfor %}
+
+          </ul>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
