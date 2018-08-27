@@ -3,7 +3,7 @@ layout: post
 img : "5.jpeg"
 title : "Artificial Imagination"
 sub-title: "Ever wondered what it would take to have a machine conceive of hyper-realistic images?"
-tags: machine-learning artificial-intelligence Recent
+tags: machine-learning artificial-intelligence recent
 img_title: "Artificial Imagination"
 img_sub_title: ""
 bg_color: "#fe339e"
