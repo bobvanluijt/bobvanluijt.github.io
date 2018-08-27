@@ -71,13 +71,29 @@
     }
     p {
       font-family: Roboto,Helvetica,Arial,sans-serif;
+      @media only screen and (max-width: 767px) {
+        font-size: 14px;
+      }
     }
+  }
+}
+.post_content {
+  position: relative;
+  z-index: 100;
+  background: #fafafa;
+  padding-top: 15px;
+  margin-top: -100px;
+  @media only screen and (max-width: 1199px) {
+    margin-top: -75px;
+  }
+  @media only screen and (max-width: 767px) {
+    margin-top: 0;
   }
 }
 .latest_img {
   height: 350px;
   position: relative;
-  @media only screen and (max-width: 1024px) {
+  @media only screen and (max-width: 1199px) {
     font-size: 24px;
   }
   @media only screen and (max-width: 767px) {
@@ -97,11 +113,11 @@
     height: 100%;
     .latest_post_img_title {
       font-size: 50px;
-      @media only screen and (max-width: 768px) {
+      @media only screen and (max-width: 1199px) {
         font-size: 42px;
       }
       @media only screen and (max-width: 767px) {
-        font-size: 38px;
+        font-size: 28px;
       }
       @media only screen and (max-width: 320px) {
         font-size: 26px;
@@ -110,7 +126,7 @@
         font-size: 24px;
         display: block;
         padding-top: 20px;
-        @media only screen and (max-width: 1024px) {
+        @media only screen and (max-width: 1199px) {
           font-size: 20px;
         }
         @media only screen and (max-width: 767px) {
@@ -124,7 +140,7 @@
   }
   .latest_post_img_title {
     font-size: 52px;
-    @media only screen and (max-width: 768px) {
+    @media only screen and (max-width: 1199px) {
       font-size: 38px;
     }
     @media only screen and (max-width: 767px) {
@@ -135,7 +151,7 @@
     }
     small {
       font-size: 16px;
-      @media only screen and (max-width: 1024px) {
+      @media only screen and (max-width: 1199px) {
         font-size: 16px;
       }
       @media only screen and (max-width: 767px) {
@@ -148,20 +164,21 @@
   }
 }
 .single_img {
-  min-height: 450px;
+  min-height: 580px;
   @media only screen and (max-width: 767px) {
-    min-height: 350px;
+    min-height: 450px;
   }
   .post_img_title {
     max-width: 80%;
-    padding-left: 20%;
-    @media only screen and (max-width: 768px) {
-      max-width: 100%;
-      padding-left: 10%;
+    margin: auto;
+    left: 0;
+    right: 0;
+    @media only screen and (max-width: 767px) {
+      max-width: 90%;
     }
   }
   .social_share_icons {
-    padding-top: 20px;
+    padding-top: 5px;
   }
 }
 .s_link {
@@ -199,6 +216,12 @@
   padding: 5px 10px;
   background: rgba(0,0,0,.05);
   border-radius: 3px;
+  display: inline-block;
+  margin: 5px;
+  @media only screen and (max-width: 767px) {
+    padding: 2px 5px;
+    margin: 3px;
+  }
 }
 .tag:hover {
   background: rgba(0,0,0,.10);
