@@ -88,6 +88,7 @@
   }
   .single_page_img {
     position: unset;
+    height: 100%;
     .latest_post_img_title {
       font-size: 50px;
       @media only screen and (max-width: 768px) {
@@ -152,6 +153,9 @@
       max-width: 100%;
       padding-left: 10%;
     }
+  }
+  .social_share_icons {
+    padding-top: 20px;
   }
 }
 .s_link {
