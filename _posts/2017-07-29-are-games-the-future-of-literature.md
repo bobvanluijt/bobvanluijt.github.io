@@ -1,6 +1,6 @@
 ---
 layout: post
-img : "7.jpeg"
+header_img : "are-games-the-future-of-literature.jpeg"
 title : "Are games the future of literature?"
 sub-title: "An article about the future of literature."
 img_title: "Are games the future of literature?"
@@ -29,25 +29,25 @@ There are two ways of looking at this.
 
 Let’s reason by example. [Kafka’s The Metamorphosis](https://www.amazon.com/Metamorphosis-Franz-Kafka/dp/1557427666) starts as follows:
 
-![](/assets/images/7-1.png)
+![](/assets/images/are-games-the-future-of-literature-1.png)
 
 The author sits at the wheel of the story and leads us from one node to another. The nodes are the plot, and the connecting lines are the story line. One could argue that the craft of the author lies in both the quality of the plot nodes and the way he connects those nodes. This way of telling a story is one-dimensional. Simply said, when Gregor Samsa wakes up, he is always lying on his back transformed into a monstrous verminous bug.
 
 What you can do in a game is introduce variables to the story line. The aesthetic value has shifted from connecting the nodes into the options you give to the user inside the story line, making the story line multi-dimensional and much more complex. Also, the traditional book format is not suited for this way of story telling. A digital game is much more suited.
 
-![](/assets/images/7-2.png)
+![](/assets/images/are-games-the-future-of-literature-2.png)
 
 
 This is the relation with the story generator. As you can see in [this](https://twitter.com/xfoml/status/888873116583079936) photo, the generator introduces variables into the generation of the story. And, what becomes extremely interesting is the question of what a creative process entails. Also, something was mentioned in the book.
 
-![](/assets/images/7-3.jpeg)
+![](/assets/images/are-games-the-future-of-literature-3.jpeg)
 
 [source](https://twitter.com/xfoml/status/888871202931879937)
 
 
 These stories, although in primitive form, already exist! The last one I played was Grand Theft Auto — San Andreas. I have never read a literary review about the game, though.
 
-![](/assets/images/7-4.png)
+![](/assets/images/are-games-the-future-of-literature-4.png)
 
 screenshot Grand Theft Auto 5 gameplay
 

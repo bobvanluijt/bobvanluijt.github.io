@@ -1,6 +1,6 @@
 ---
 layout: post
-img : "11.png"
+header_img : "semantic-internet-of-things.png"
 title : "Semantic Internet of Things"
 sub-title: "Thoughts on a Semantic Internet of Things"
 img_title: "Semantic Internet of Things"
@@ -19,7 +19,7 @@ I believe that it will not be long before the Internet and the Web will [break t
 
 In 1950, the scientist Alan Turing proposed a way to validate intelligence in machines through the Turing Test. To achieve this, the machine should be able to solve at least the following four issues; it should be able to process natural language, it should be able to store the knowledge it observes, it should be able to draw conclusions based on the knowledge it has stored and it should be able to learn to adjust to new circumstances. In the book [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/), which is used in over 1300 universities and over 110 countries, the authors add two more properties to the list of interactions with the physical world. First, there is computer vision, which I will refer to as computer senses because vision is just one possible way to sense information from the physical world, and secondly, there is robotics to manipulate the physical world.
 
-![](/assets/images/3-1.png)
+![](/assets/images/semantic-internet-of-things-1.png)
 
 
 As depicted in the previous image, our key goal is to be in control of the information and knowledge hiding in plain sight in the physical world. If we want to represent things in a digital network like the Internet, we should not look at ways to capture knowledge by digitally sensing information from it, but we should ask how we can represent the concept that the thing entails. I carefully use the word “thing” rather than, for example, “object” because a thing can also represent a concept, action, event, thought, or utterance, which an object cannot do.
@@ -27,7 +27,7 @@ As depicted in the previous image, our key goal is to be in control of the infor
 Those physical things are connected through actions that imply behavior. For example, the two “things” Alice and Bob are connected through the action of liking each other, which we semantically would call the predicate.
 
 
-![](/assets/images/3-2.png)
+![](/assets/images/semantic-internet-of-things-2.png)
 
 Example of triplets as described in the [RDF Primer 1.1](https://www.w3.org/TR/2014/NOTE-rdf11-primer-20140225/#section-triple).
 
@@ -39,7 +39,7 @@ Our key to capturing and representing the knowledge held in the physical world i
 What makes a chair a chair? And how can we store information about the concept of a chair in such a way that we can relate it to behavior and other concepts around us? In my search for an answer to this, a friend pointed me towards a concept in analytical philosophy, which is known as the [linguistic-turn](https://en.wikipedia.org/wiki/Linguistic_turn), and Wittgenstein’s role in it. This is a movement in Western philosophy that focuses on the relationship between philosophy and language. One of the key points is that, for example, a chair is not just “a chair” and nothing else, but that it is rather a collection of characteristics that form the concept of a chair. And these characteristics, for example, the legs of the chair, would have other sub-characteristics like the type of wood it is made of. This principle goes on and on in many dimensions, opposed to what Jacques Derrida called the metaphysical core, every concept being individually labeled. The conclusion that we can draw from this is that what we call reality is actually a convention of naming and grouping information in a symbolic system, which we call language.
 
 
-![](/assets/images/3-3.png)
+![](/assets/images/semantic-internet-of-things-3.png)
 
 In philosophy, the left is believed to be true. In digital databases, however, we often use labels as depicted on the right side.
 
@@ -69,7 +69,7 @@ But even if we capture physical concepts semantically with frameworks like, for 
 
 For the business-minded readers of this blog, do not underestimate this. Chances are that your business, because of understandable legacy reasons, is built on top of databases that are not able to capture and represent these types of data. You might be storing quantitatively more (big) data, but qualitatively the value is going down! Tremendously valuable information might get lost in translation because the actual concept that you try to store gets lost.
 
-![](/assets/images/3-4.png)
+![](/assets/images/semantic-internet-of-things-4.png)
 
 Storing information semantically in relational, vs graph databases.
 

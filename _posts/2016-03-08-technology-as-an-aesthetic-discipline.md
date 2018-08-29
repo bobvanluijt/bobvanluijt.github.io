@@ -1,6 +1,6 @@
 ---
 layout: post
-img : "3.jpeg"
+header_img : "technology-as-an-aesthetic-discipline.jpeg"
 title : "Technology as an aesthetic discipline"
 sub-title: "How machines can create new forms of art"
 tags: art technology recent

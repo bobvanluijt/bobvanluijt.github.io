@@ -1,6 +1,6 @@
 ---
 layout: post
-img : "8.jpeg"
+header_img : "when-is-something-good.jpeg"
 title : "When is something good?"
 sub-title: "We touched quickly on the question when I believed something — like design, art, business, etcetera, to be good"
 img_title: "When is something good?"
@@ -37,7 +37,7 @@ Three important things to note:
 2\. Aesthetics is subjective. If the whole world thinks something is ugly except for you, that is fine.
 3\. An artist being good at his or her craft, like a singer, does not equate to the work being of aesthetic value. Many people find Bob Dylan’s work to be of high aesthetic value, but he sings out of tune. This is also the reason why an art school, like a conservatory, does not create artists. It creates people who are good at the craft of playing an instrument.
 
-![](/assets/images/6-1.gif)
+![](/assets/images/when-is-something-good-1.gif)
 
 [Mark Stivers](http://www.markstivers.com)
 
@@ -73,4 +73,4 @@ So, to conclude, I believe that something is “good” if you, as the observer,
 
 This can all be captured in the following diagram:
 
-![](/assets/images/6-2.png)
+![](/assets/images/when-is-something-good-2.png)

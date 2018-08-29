@@ -1,6 +1,6 @@
 ---
 layout: post
-img : "5.jpeg"
+header_img : "artificial-imagination.jpeg"
 title : "Artificial Imagination"
 sub-title: "Ever wondered what it would take to have a machine conceive of hyper-realistic images?"
 tags: machine-learning artificial-intelligence recent
@@ -19,13 +19,13 @@ How many flowers does a human need to see before they can imagine a new one? Or,
 
 We’ve been able to have software recognize objects in images for quite some time now. This is often done by a so-called [convolutional neural network](https://en.wikipedia.org/wiki/Convolutional_neural_network). A neural network that, in short, is inspired by how animals observe objects.
 
-![](/assets/images/10-1.jpeg)
+![](/assets/images/artificial-imagination-1.jpeg)
 
 Completely random image run through the YOLO CNN
 
 You can already find many open source software projects [[1](https://github.com/tiny-dnn/tiny-dnn), [2](http://pjreddie.com/darknet/yolo/)] and even [services](https://cloud.google.com/vision) that offer you the fully implemented and pre-trained models to do the recognition for you. The image on the left is such an example. I ran it through the You Only Look Once ([YOLO](http://pjreddie.com/darknet/yolo/)) software, and with a few minor tweaks it gave me the correct output: a person with a tie and a bottle. It is not hard to imagine that large models trained to achieve this outcome can also be reversed in usage. Like, using the query: “A man wearing a tie and holding a bottle” to have the computer find an existing, corresponding image.
 
-![](/assets/images/10-2.jpeg)
+![](/assets/images/artificial-imagination-2.jpeg)
 
 Search for: “A man wearing a tie and holding a bottle”.
 
@@ -33,7 +33,7 @@ Search for: “A man wearing a tie and holding a bottle”.
 
 But now we are at the brink of a new paradigm in deep learning, visual recognition or, dare I write it, artificial intelligence. The first attempt was made to generate (or, in fancy terminology _synthesize_) images based on text input or a set of [vectors](http://carpedm20.github.io/faces/).
 
-![](/assets/images/10-3.png)
+![](/assets/images/artificial-imagination-3.png)
 
 Figure 4 from the StackGAN paper
 
