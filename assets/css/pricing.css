@@ -8,6 +8,7 @@ html {
 }
 
 .container {
+  font-family: 'Roboto Slab', cursive;
   max-width: 960px;
 }
 
