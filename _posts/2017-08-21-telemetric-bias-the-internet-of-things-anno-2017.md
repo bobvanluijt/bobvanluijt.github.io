@@ -1,6 +1,6 @@
 ---
 layout: post
-img : "10.jpeg"
+header_img : "telemetric-bias-the-internet-of-things-anno-2017.png"
 title : "Telemetric Bias & the Internet of things anno 2017"
 sub-title: "“Telemetric bias? What’s that?” he asked."
 img_title: "Telemetric Bias"
@@ -40,7 +40,7 @@ There are four interesting things that Kevin talks about;
 
 This allows us to capture the initial Internet of Things into this quadrant.
 
-![](/assets/images/4-1.png)
+![](/assets/images/telemetric-bias-the-internet-of-things-anno-2017-1.png)
 
 Internet of Things core
 
@@ -77,7 +77,7 @@ In IoT, we need the exact same thing. We need sensors that receive input from th
 
 The amazing thing is that a machine can have many, many more senses than a human, like echolocation (a sonar), magnetoception (a magnetic field detector), and many others.
 
-![](/assets/images/4-2.png)
+![](/assets/images/telemetric-bias-the-internet-of-things-anno-2017-2.png)
 
 
 ### Sensing by Proxy

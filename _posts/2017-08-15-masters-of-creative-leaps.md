@@ -1,6 +1,6 @@
 ---
 layout: post
-img : "9.png"
+header_img : "masters-of-creative-leaps.png"
 title : "Masters of Creative Leaps"
 sub-title: "Masters of Creative Leaps & other thoughts on creativity"
 img_title: "Masters of Creative Leaps"
@@ -14,7 +14,7 @@ You are working late, and you want to go home. You pack your things, walk toward
 
 If you look back at the decisions you’ve made, you could represent it as something like this:
 
-![](/assets/images/5-1.png)
+![](/assets/images/masters-of-creative-leaps-1.png)
 
 
 The eureka moment was that idea about the window in the storage room that had snapped in your mind as a form of creativity. It might sound trivial, but we do it all the time. The clinical psychologist [Jordan B. Peterson](https://twitter.com/jordanbpeterson) writes about this at great length in his book, “[Maps of Meaning](https://jordanbpeterson.com/maps-of-meaning/).” On the most macro level, he calls it the transition from [chaos to order](http://www.mind-manual.com/blog/2012/02/15/order-chaos-an-introduction-to-jordan-peterson/). And the point of this is that creativity is not something that artists have a monopoly on. People are tremendously creative, from creating and leading businesses to collecting garbage or finding ways out of a building.
@@ -27,7 +27,7 @@ I call myself a creative technologist. Often people ask me what that means, or b
 
 When I was a student, I took occasional lessons from a Dutch composer called [Jacob Ter Veldhuis](http://www.jacobtv.net/). He had this saying about “something being in the air.” With this, he meant that the melting pot of social, cultural, technical, and esthetical advances were about to collide and give birth to something new.
 
-![](/assets/images/5-2.png)
+![](/assets/images/masters-of-creative-leaps-2.png)
 
 
 In the above image, you can see an example of the future. Some things are visible; others are not. The further you are able to chain events into the future, the more creative you are, and the faster you will get to this new eureka moment.
@@ -48,7 +48,7 @@ The dots that Nietzsche was able to connect resulted in a tremendous creative le
 
 #### Dalí, a Master of the Spiritual Creative Leap
 
-![](/assets/images/5-3.jpeg)
+![](/assets/images/masters-of-creative-leaps-3.jpeg)
 
 Source: [wikimedia.org](https://upload.wikimedia.org/wikipedia/en/0/09/Dali_Crucifixion_hypercube.jpg)
 
@@ -57,7 +57,7 @@ A master of the spiritual creative leap is the artist Salvador Dalí. This is be
 
 What makes this work of art so intriguing is that the cross that Dalí painted is an unfolded hypercube (a.k.a tesseract), which is used by scientists to visualise the fourth dimension. Dalí makes a connection between the spiritual and the mathematical to make “a geometric symbol for the transcendental nature of God.”
 
-![](/assets/images/5-4.gif)
+![](/assets/images/masters-of-creative-leaps-4.gif)
 
 A Hypercube, [source](https://www.pinterest.com/pin/407083253789994103/)
 

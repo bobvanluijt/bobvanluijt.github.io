@@ -1,6 +1,6 @@
 ---
 layout: post
-img : "5.jpeg"
+header_img : "thoughts-on-bullshit-tech-art.jpeg"
 title : "Thoughts on bullshit tech-art"
 sub-title: "About artists using empty rhetorics to draw a crowd."
 tags: artificial-intelligence art bullshit
